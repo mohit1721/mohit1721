@@ -24,6 +24,42 @@
   <a href="https://leetcode.com/mohit1702" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="leetcode" /></a>
   <a href="https://linktr.ee/mk1702" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" alt="linktree" /></a>
 </p>
+### ⚒️ Skills & Tools:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+## 📂 Projects
+
+### 🚀 Full Stack Applications
+- **StudyNotion**: [GitHub](https://github.com/mohit1721/study1) | [Live Demo](https://studynotion.vercel.app)  
+- **CodeSync**: Real-time code editor collaboration tool. [GitHub](https://github.com/mohit1721/c-sync)  
+
+### ⚙️ DSA & Algorithms
+- **LeetCode Solutions**: [GitHub](https://github.com/mohit1721/Leetcode)  
+
+### 🏆 Certifications:
+- **Wipro TalentNext** – *Full Stack Development*  
+- **Cloud & Digital Launchpad** – *PwC*  
+
+![Certificates](https://img.shields.io/badge/Verified-✅-green)
+
+### 📈 GitHub Activity Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohit1721&theme=react-dark&hide_border=true)
+
+
+### 📊 Portfolio
+- **My Portfolio Website**: [GitHub](https://github.com/mohit1721/my-portfolio) | [Live Demo](https://memohit.vercel.app)  
+🚀 **I turn ideas into reality!**  
+🎯 **My Goal**: Solve problems, build scalable projects, and learn daily.
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mohit1721&color=blue)
+
+
 
 <!--
 **mohit1721/mohit1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
