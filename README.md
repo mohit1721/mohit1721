@@ -24,6 +24,7 @@
   <a href="https://leetcode.com/mohit1702" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="leetcode" /></a>
   <a href="https://linktr.ee/mk1702" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" alt="linktree" /></a>
 </p>
+
 ### ⚒️ Skills & Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
