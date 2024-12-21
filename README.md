@@ -28,8 +28,8 @@
 ## 📂 Projects
 
 ### 🚀 Full Stack Applications
-- **StudyNotion**: [GitHub](https://github.com/mohit1721/study1) | [Live Demo](https://studynotion.vercel.app)  
-- **CodeSync**: Real-time code editor collaboration tool. [GitHub](https://github.com/mohit1721/c-sync)  
+- **StudyNotion**: [GitHub](https://github.com/mohit1721/study1) | [Live Demo](https://mystudynotion.vercel.app)  
+- **CodeSync**: Real-time code editor collaboration tool. [GitHub](https://github.com/mohit1721/c-sync)  | [Live Demo](https://codes-sync.vercel.app)
 
 ### ⚙️ DSA & Algorithms
 - **LeetCode Solutions**: [GitHub](https://github.com/mohit1721/Leetcode)  
