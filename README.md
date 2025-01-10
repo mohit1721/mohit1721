@@ -35,7 +35,7 @@
 - **LeetCode Solutions**: [GitHub](https://github.com/mohit1721/Leetcode)  
 
 ### 🏆 Certifications:
-- **Wipro TalentNext** – *Full Stack Development*  ![Certificate](https://img.shields.io/badge/Verified-✅-green)
+- **Wipro TalentNext** – [Full Stack Development](https://drive.google.com/file/d/1IbVRZjDfGx4QYyVsMS7iMNsjXs1GYNIL/view?usp=sharing)  ![Certificate](https://img.shields.io/badge/Verified-✅-green)
 - **Cloud & Digital Launchpad** – [Pwc](https://drive.google.com/file/d/1tTqoQwFvPBaU0bF2au-4YoiPmnOBeisY/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook)  ![Certificate](https://img.shields.io/badge/Verified-✅-green)
 
 ### 📈 GitHub Activity Graph:
