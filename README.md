@@ -36,7 +36,7 @@
 
 ### 🏆 Certifications:
 - **Wipro TalentNext** – *Full Stack Development*  ![Certificate](https://img.shields.io/badge/Verified-✅-green)
-- **Cloud & Digital Launchpad** – *PwC*(https://drive.google.com/file/d/1tTqoQwFvPBaU0bF2au-4YoiPmnOBeisY/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook)  ![Certificate](https://img.shields.io/badge/Verified-✅-green)
+- **Cloud & Digital Launchpad** – [Pwc](https://drive.google.com/file/d/1tTqoQwFvPBaU0bF2au-4YoiPmnOBeisY/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook)  ![Certificate](https://img.shields.io/badge/Verified-✅-green)
 
 ### 📈 GitHub Activity Graph:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohit1721&theme=react-dark&hide_border=true)
