@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar Mandal</h1>
 <h3 align="center">A Passionate Full Stack Developer[MERN Stack] | C++ Programmer | DSA Enthusiast</h3>
 
-- 🌱 I’m currently learning **Nextjs | Blockchain **
+- 🌱 I’m currently pursuing B.Tech in CSE at Haldia Institute Of Technology.
 - 👨‍💻 Check out my projects: [memohit.vercel.app](https://memohit.vercel.app)
-- 💬 Ask me about **C++, MERN Stack, MongoDB, and Problem Solving**
+- 💬 Ask me about **C++,DSA, Reactjs, MERN Stack, and Problem Solving**
 - 📫 How to reach me: **mohitmandal192@gmail.com**
 - ⚡ Fun fact: **I love solving coding challenges and participating in hackathons!**
 
@@ -50,6 +50,14 @@
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mohit1721&color=blue)
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit1721&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/mohit1721/count.svg?align=center)
 
 
 
