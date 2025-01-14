@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing B.Tech in CSE at Haldia Institute Of Technology.
 - 👨‍💻 Check out my projects: [memohit.vercel.app](https://memohit.vercel.app)
 - 💬 Ask me about **C++,DSA, Reactjs, MERN Stack, and Problem Solving**
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohitmandal192@gmail.com)](mailto:mohitmandal192@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-mohitmandal192@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohitmandal192@gmail.com)](mailto:mohitmandal192@gmail.com)
 
 - ⚡ Fun fact: **I love solving coding challenges and participating in hackathons!**
 
