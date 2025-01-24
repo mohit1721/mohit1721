@@ -10,7 +10,7 @@
 
 ### 🚀 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,react,nextjs,express,mongodb,redis,sql,tailwind,git,github,vscode,bootstrap,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,react,nextjs,express,mongodb,redis,tailwind,mysql,git,github,vscode,bootstrap,aws" />
 </p>
 
 ### 📊 GitHub Stats:
