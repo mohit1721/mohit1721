@@ -13,10 +13,11 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,react,nextjs,express,mongodb,redis,tailwind,docker,mysql,git,github,vscode,aws" />
 </p>
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats:
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohit1721&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit1721&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohit1721&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit1721&theme=dark" alt="GitHub Streak">
 </p>
 
 ### 🔗 Connect with Me:
@@ -26,11 +27,37 @@
   <a href="https://linktr.ee/mk1702" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" alt="linktree" /></a>
 </p>
 
-## 📂 Projects
+### 💼 Projects:
 
-### 🚀 Full Stack Applications
-- **StudyNotion**: [GitHub](https://github.com/mohit1721/study1) | [Live Demo](https://mystudynotion.vercel.app)  
+- **STUDYNOTION**: Next-Gen Ed-Tech Hub for Seamless Learning
+  - Developed a platform with 20+ registered users for creating and consuming educational content.
+  - Implemented JWT-based authentication with Role-Based Access Control (RBAC).
+  - Designed a scalable RESTful backend using Node.js and Express.js.
+  - Optimized backend API with Redis caching, reducing response time by 90%.
+  - Tech Stack: React.js, Node.js, Express.js, MongoDB, Redux, Redis, TailwindCSS
+  - [Live Demo](https://mystudynotion.vercel.app) | [GitHub Repository](https://github.com/mohit1721/study1)
+
+- **MEDGUARDIAN**: Full-stack Smart Medication Reminder & Health Tracker App
+  - Developed a smart medication tracker ensuring real-time tracking and daily one-time marking.
+  - Integrated Chart.js for real-time health visualization and automated email reminders.
+  - Tech Stack: React.js, Node.js, Express.js, MongoDB, Redux, TailwindCSS
+  - [Live Demo](https://medguardian.vercel.app) | [GitHub Repository](https://github.com/mohit1721/medguardian)
+
+- **SAFE-REPORT**: Crime Reporting & Anonymous Submission Platform
+  - Built a secure, anonymous crime-reporting system ensuring data privacy.
+  - Integrated end-to-end encrypted communication between users and authorities.
+  - Tech Stack: Next.js, Prisma, NeonDB, Gemini AI, TailwindCSS
+  - [GitHub Repository](https://github.com/mohit1721/safe-report)
+  - 
 - **CodeSync**: Real-time code editor collaboration tool. [GitHub](https://github.com/mohit1721/c-sync)  | [Live Demo](https://codes-sync.vercel.app)
+
+### 🏆 Awards and Achievements:
+
+- **LeetCode Rating:** 1558
+- **Solved 550+ questions** across LeetCode, GeeksforGeeks, and Coding Ninjas
+- **3rd Position** in Codescape Contest (August 2023)
+- **3rd Position** in Hackathon Hack-Track (January 2023)
+
 
 ### ⚙️ DSA & Algorithms
 - **LeetCode Solutions**: [GitHub](https://github.com/mohit1721/Leetcode)  
@@ -60,6 +87,9 @@
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/mohit1721/count.svg?align=center)
 
+💡 *"Code is like humor. When you have to explain it, it’s bad."* – **Cory House**
+
+🚀 **Let's collaborate and build something amazing together! Feel free to connect with me.**
 
 
 <!--
