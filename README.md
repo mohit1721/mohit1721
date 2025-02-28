@@ -47,7 +47,7 @@
   - Built a secure, anonymous crime-reporting system ensuring data privacy.
   - Integrated end-to-end encrypted communication between users and authorities.
   - Tech Stack: Next.js, Prisma, NeonDB, Gemini AI, TailwindCSS
-  - [GitHub Repository](https://github.com/mohit1721/safe-report)
+  - [GitHub Repository](https://github.com/mohit1721/safereports)
   - 
 - **CodeSync**: Real-time code editor collaboration tool. [GitHub](https://github.com/mohit1721/c-sync)  | [Live Demo](https://codes-sync.vercel.app)
 
