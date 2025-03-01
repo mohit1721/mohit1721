@@ -36,19 +36,20 @@
   - Optimized backend API with Redis caching, reducing response time by 90%.
   - Tech Stack: React.js, Node.js, Express.js, MongoDB, Redux, Redis, TailwindCSS
   - [Live Demo](https://mystudynotion.vercel.app) | [GitHub Repository](https://github.com/mohit1721/study1)
-
+  
+- **SAFE-REPORT**: Crime Reporting & Anonymous Submission Platform
+  - Built a secure, anonymous crime-reporting system ensuring data privacy.
+  - Integrated end-to-end encrypted communication between users and authorities.
+  - Automated jurisdiction-based report routing.
+  - Tech Stack: Next.js, Prisma, NeonDB, Gemini AI, TailwindCSS
+  - [Live Demo](https://safetoreport.vercel.app) | [GitHub Repository](https://github.com/mohit1721/safereports)
+    
 - **MEDGUARDIAN**: Full-stack Smart Medication Reminder & Health Tracker App
   - Developed a smart medication tracker ensuring real-time tracking and daily one-time marking.
   - Integrated Chart.js for real-time health visualization and automated email reminders.
   - Tech Stack: React.js, Node.js, Express.js, MongoDB, Redux, TailwindCSS
   - [Live Demo](https://medguardian.vercel.app) | [GitHub Repository](https://github.com/mohit1721/medguardian)
 
-- **SAFE-REPORT**: Crime Reporting & Anonymous Submission Platform
-  - Built a secure, anonymous crime-reporting system ensuring data privacy.
-  - Integrated end-to-end encrypted communication between users and authorities.
-  - Tech Stack: Next.js, Prisma, NeonDB, Gemini AI, TailwindCSS
-  - [GitHub Repository](https://github.com/mohit1721/safereports)
-  - 
 - **CodeSync**: Real-time code editor collaboration tool. [GitHub](https://github.com/mohit1721/c-sync)  | [Live Demo](https://codes-sync.vercel.app)
 
 ### 🏆 Awards and Achievements:
