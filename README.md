@@ -41,7 +41,7 @@
   - Built a secure, anonymous crime-reporting system ensuring data privacy.
   - Integrated end-to-end encrypted communication between users and authorities.
   - Automated jurisdiction-based report routing.
-  - Tech Stack: Next.js, Prisma, NeonDB, Gemini AI, TailwindCSS
+  - Tech Stack: React.js, Node.js, Express.js, MongoDB, Gemini AI, TailwindCSS
   - [Live Demo](https://safetoreport.vercel.app) | [GitHub Repository](https://github.com/mohit1721/safereports)
     
 - **MEDGUARDIAN**: Full-stack Smart Medication Reminder & Health Tracker App
