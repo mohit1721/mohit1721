@@ -29,13 +29,13 @@
 
 ### 💼 Projects:
 
-- **STUDYNOTION**: Next-Gen Ed-Tech Hub for Seamless Learning
+- **LERNIX**: Next-Gen Ed-Tech Hub for Seamless Learning
   - Developed a platform with 20+ registered users for creating and consuming educational content.
   - Implemented JWT-based authentication with Role-Based Access Control (RBAC).
   - Designed a scalable RESTful backend using Node.js and Express.js.
   - Optimized backend API with Redis caching, reducing response time by 90%.
   - Tech Stack: React.js, Node.js, Express.js, MongoDB, Redux, Redis, TailwindCSS
-  - [Live Demo](https://mystudynotion.vercel.app) | [GitHub Repository](https://github.com/mohit1721/study1)
+  - [Live Demo](https://mylernix.vercel.app) | [GitHub Repository](https://github.com/mohit1721/study1)
   
 - **SAFE-REPORT**: Crime Reporting & Anonymous Submission Platform
   - Built a secure, anonymous crime-reporting system ensuring data privacy.
