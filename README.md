@@ -27,27 +27,41 @@
   <a href="https://linktr.ee/mk1702" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" alt="linktree" /></a>
 </p>
 
-### 💼 Projects:
+## 🧑‍💻 Internship Experience
 
-- **LERNIX**: Next-Gen Ed-Tech Hub for Seamless Learning
-  - Developed a platform with 20+ registered users for creating and consuming educational content.
-  - Implemented JWT-based authentication with Role-Based Access Control (RBAC).
-  - Designed a scalable RESTful backend using Node.js and Express.js.
-  - Optimized backend API with Redis caching, reducing response time by 90%.
-  - Tech Stack: React.js, Node.js, Express.js, MongoDB, Redux, Redis, TailwindCSS
-  - [Live Demo](https://mylernix.vercel.app) | [GitHub Repository](https://github.com/mohit1721/study1)
+### 🌐 OSCode – Frontend Developer Intern  
+📅 May 2025 – Present  
+📍 Remote | Internship
+
+ - Developed a platform with 20+ registered users for creating and consuming educational content.
+ - Implemented JWT-based authentication with Role-Based Access Control (RBAC).
+ - Designed a scalable RESTful backend using Node.js and Express.js.
+ - Optimized backend API with Redis caching, reducing response time by 90%.
+
+### 🔧 Tech Stack:
+`React.js` `Tailwind CSS` `MongoDB` `Nodejs` `Expressjs` `Git` `REST APIs`
+
+### 🔗 Related Project:
+[🎮 Game Interface UI](https://github.com/your-username/oscode-ui)
+
+
+### 💼 Projects:
   
 - **SAFE-REPORT**: Crime Reporting & Anonymous Submission Platform
   - Built a secure, anonymous crime-reporting system ensuring data privacy.
   - Integrated end-to-end encrypted communication between users and authorities.
   - Automated jurisdiction-based report routing.
-  - Tech Stack: React.js, Node.js, Express.js, MongoDB, Gemini AI, TailwindCSS
+  
+  ### Tech Stack:
+  `React.js` `Node.js` `Express.js` `MongoDB` `Gemini AI` `TailwindCSS`
   - [Live Demo](https://safetoreport.vercel.app) | [GitHub Repository](https://github.com/mohit1721/safereports)
     
 - **MEDGUARDIAN**: Full-stack Smart Medication Reminder & Health Tracker App
   - Developed a smart medication tracker ensuring real-time tracking and daily one-time marking.
   - Integrated Chart.js for real-time health visualization and automated email reminders.
-  - Tech Stack: React.js, Node.js, Express.js, MongoDB, Redux, TailwindCSS
+  
+  ### Tech Stack:
+  `React.js` `Node.js` `Express.js` `MongoDB` `TailwindCSS`
   - [Live Demo](https://medguardian.vercel.app) | [GitHub Repository](https://github.com/mohit1721/medguardian)
 
 - **CodeSync**: Real-time code editor collaboration tool. [GitHub](https://github.com/mohit1721/c-sync)  | [Live Demo](https://codes-sync.vercel.app)
