@@ -29,9 +29,9 @@
 
 ## 🧑‍💻 Internship Experience
 
-### 🌐 OSCode – Frontend Developer Intern  
-📅 May 2025 – Present  
-📍 Remote | Internship
+### 🌐 OSCode – SDE Intern  
+📅 Jan 2025 – Feb 2025  
+📍 Banglore | Internship
 
  - Developed a platform with 20+ registered users for creating and consuming educational content.
  - Implemented JWT-based authentication with Role-Based Access Control (RBAC).
@@ -40,10 +40,6 @@
 
 ### 🔧 Tech Stack:
 `React.js` `Tailwind CSS` `MongoDB` `Nodejs` `Expressjs` `Git` `REST APIs`
-
-### 🔗 Related Project:
-[🎮 Game Interface UI](https://github.com/your-username/oscode-ui)
-
 
 ### 💼 Projects:
   
