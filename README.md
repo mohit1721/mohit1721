@@ -27,22 +27,29 @@
   <a href="https://linktr.ee/mk1702" target="blank"><img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white" alt="linktree" /></a>
 </p>
 
-## 🧑‍💻 Internship Experience
 
-### 🌐 OSCode – SDE Intern  
-📅 Jan 2025 – Feb 2025  
-📍 Banglore | Internship
 
- - Developed a platform with 20+ registered users for creating and consuming educational content.
- - Implemented JWT-based authentication with Role-Based Access Control (RBAC).
- - Designed a scalable RESTful backend using Node.js and Express.js.
- - Optimized backend API with Redis caching, reducing response time by 90%.
 
 ### 🔧 Tech Stack:
 `React.js` `Tailwind CSS` `MongoDB` `Nodejs` `Expressjs` `Git` `REST APIs`
 
+### 💼 Experience
+- **Optimiser** (Software Engineer Trainee) [August 2025-Present]  (Remote)
+   -Enhanced Activity module with distinct icons and real-time calendar dot sync for users.
+   -Added in-form Add Category feature with validation and auto-selection, streamlining workflow.
+   -Fixed Calendar Sharing dropdown scroll and automated mini-calendar updates for accurate activity indicators.
+   -Restricted multiple owner selection in recurring tasks to ensure clear ownership and accountability.
+### Tech Stack: 
+`Javascript` , `Node.js`, `MongoDB`
 ### 💼 Projects:
-  
+- **LERNIX**: Edtech platform
+  - Developed a platform with 20+ registered users for creating and consuming educational content.
+  - Implemented JWT-based authentication with Role-Based Access Control (RBAC).
+  - Designed a scalable RESTful backend using Node.js and Express.js.
+  - Optimized backend API with Redis caching, reducing response time by 90%.
+  ### Tech Stack:
+  `React.js` `Node.js` `Express.js` `MongoDB` `Redux` `TailwindCSS`
+  - [Live Demo](https://mylernix.vercel.app) | [GitHub Repository](https://github.com/mohit1721/study1)
 - **SAFE-REPORT**: Crime Reporting & Anonymous Submission Platform
   - Built a secure, anonymous crime-reporting system ensuring data privacy.
   - Integrated end-to-end encrypted communication between users and authorities.
