@@ -30,17 +30,15 @@
 
 
 
-### 🔧 Tech Stack:
-`React.js` `Tailwind CSS` `MongoDB` `Nodejs` `Expressjs` `Git` `REST APIs`
 
 ### 💼 Experience
-- **Optimiser** (Software Engineer Trainee) [August 2025-Present]  (Remote)
+- **Optimiser** (Software Engineer Trainee) [August 2025-Present]  (Remote).
    -Enhanced Activity module with distinct icons and real-time calendar dot sync for users.
    -Added in-form Add Category feature with validation and auto-selection, streamlining workflow.
    -Fixed Calendar Sharing dropdown scroll and automated mini-calendar updates for accurate activity indicators.
    -Restricted multiple owner selection in recurring tasks to ensure clear ownership and accountability.
 ### Tech Stack: 
-`Javascript` , `Node.js`, `MongoDB`
+`Javascript` , `Node.js`, `MongoDB` ,`Bitbucket` ,`REST APIs`
 ### 💼 Projects:
 - **LERNIX**: Edtech platform
   - Developed a platform with 20+ registered users for creating and consuming educational content.
