@@ -33,10 +33,10 @@
 
 ### 💼 Experience
 - **Optimiser** (Software Engineer Trainee) [August 2025-Present]  (Remote).
-   -Enhanced Activity module with distinct icons and real-time calendar dot sync for users.
-   -Added in-form Add Category feature with validation and auto-selection, streamlining workflow.
-   -Fixed Calendar Sharing dropdown scroll and automated mini-calendar updates for accurate activity indicators.
-   -Restricted multiple owner selection in recurring tasks to ensure clear ownership and accountability.
+   - Enhanced Activity module with distinct icons and real-time calendar dot sync for users.
+   - Added in-form Add Category feature with validation and auto-selection, streamlining workflow.
+   - Fixed Calendar Sharing dropdown scroll and automated mini-calendar updates for accurate activity indicators.
+   - Restricted multiple owner selection in recurring tasks to ensure clear ownership and accountability.
 ### Tech Stack: 
 `Javascript` , `Node.js`, `MongoDB` ,`Bitbucket` ,`REST APIs`
 ### 💼 Projects:
